@@ -1,2 +1,2 @@
-#starter web
-##learning git from jason taylor
+# starter web
+## learning git from jason taylor
